@@ -1,0 +1,7 @@
+comprobar si un número es positivo, negativo o cero. La función debe devolver positive, negative o zero.
+
+function checkSign(num) {
+return num > 0 ? "positive" : num < 0 ? "negative" : "zero";
+}
+
+checkSign(10);

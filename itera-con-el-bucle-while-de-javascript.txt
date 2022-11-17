@@ -1,0 +1,9 @@
+// Configuración
+const myArray = [];
+let i = 0
+// Cambia solo el código debajo de esta línea
+while (i<6){
+
+  myArray.unshift(i);
+  i++
+}
